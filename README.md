@@ -30,27 +30,31 @@ arsh@Trex099:~$ ./show-stats.sh
 <br/>
 
 <div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Trex099&show_icons=true&theme=gotham&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Trex099&show_icons=true&theme=gotham&hide_border=true&bg_color=00000000&v=1)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Trex099&layout=compact&theme=gotham&hide_border=true&bg_color=00000000&v=1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Trex099&layout=compact&theme=gotham&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 
 </div>
 
 <br/>
 
+### &gt;_ CONTRIBUTION LOG
+
 <div align="center">
-  <h3>&gt;_ CONTRIBUTION LOG</h3>
-  <!-- Note: This animation will appear after the workflow runs once. -->
-  <a href="https://github.com/Trex099/Trex099/actions/workflows/snake.yml">
-    <img src="https://github.com/Trex099/Trex099/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation (Loading...)" />
-  </a>
+  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Trex099/Trex099/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Trex099/Trex099/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Trex099/Trex099/output/github-contribution-grid-snake.svg">
+</picture>
+
 </div>
 
 <br/>
 
 <div align="center">
   <code>End of Session. Connection Terminated.</code>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=Trex099&label=VISITORS&color=blue&style=flat-square" alt="Profile Views" />
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=Trex099&label=VISITORS&color=58a6ff&style=flat-square" alt="Profile Views" />
 </div>

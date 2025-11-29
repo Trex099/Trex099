@@ -4,7 +4,6 @@ building things with **Python**, **C++**, and **Rust**
 I just code stuff that i need..
 
 [![GitHub](https://img.shields.io/badge/github-Trex099-58a6ff?style=flat&logo=github&logoColor=white)](https://github.com/Trex099)
-![](https://komarev.com/ghpvc/?username=Trex099&color=58a6ff&style=flat)
 
 ---
 

@@ -32,9 +32,9 @@ I just code stuff that i need..
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Trex099&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Trex099&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Trex099&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9)
+<img src="https://streak-stats.demolab.com/?user=Trex099&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak" />
 
 </div>
 

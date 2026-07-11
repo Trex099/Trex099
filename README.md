@@ -7,7 +7,7 @@ I just code stuff that i need..
 
 ---
 
-### 🛠 tech & tools
+###  tech & tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -18,21 +18,13 @@ I just code stuff that i need..
 
 ---
 
-### 🐍 contribution graph
+###  contribution graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Trex099/Trex099/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Trex099/Trex099/output/github-contribution-grid-snake.svg">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Trex099/Trex099/output/github-contribution-grid-snake.svg">
 </picture>
-
----
-
-### 💭 what i'm working on
-
-- 🦀 learning rust and low-level programming
-- 🔧 contributing to open source projects
-- 🚀 building cool stuff when i have time
 
 ---
 
